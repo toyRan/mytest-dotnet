@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShopMVCSite", "PetShopMVCSite.csproj", "{3A19C7B3-089F-4105-8A16-09096CA8D8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTEntities", "..\PTEntities\PTEntities.csproj", "{FC923D34-8A1B-483C-93AE-ECE3A9F036FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTLogic", "..\PTLogic\PTLogic.csproj", "{1AC56C92-F519-4F5E-B76C-20EF5B5218B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A19C7B3-089F-4105-8A16-09096CA8D8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A19C7B3-089F-4105-8A16-09096CA8D8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A19C7B3-089F-4105-8A16-09096CA8D8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A19C7B3-089F-4105-8A16-09096CA8D8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC923D34-8A1B-483C-93AE-ECE3A9F036FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC923D34-8A1B-483C-93AE-ECE3A9F036FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC923D34-8A1B-483C-93AE-ECE3A9F036FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC923D34-8A1B-483C-93AE-ECE3A9F036FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC56C92-F519-4F5E-B76C-20EF5B5218B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC56C92-F519-4F5E-B76C-20EF5B5218B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC56C92-F519-4F5E-B76C-20EF5B5218B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC56C92-F519-4F5E-B76C-20EF5B5218B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9C4312-F6E8-4DC4-AE28-E096E3922DAF}
+	EndGlobalSection
+EndGlobal
